@@ -11,7 +11,7 @@ Data Science student at **Memorial University of Newfoundland** (undergraduate B
 | [Obesity Risk Factors — CCHS 2022](https://github.com/mudabb8r/obesity-risk-factors-cchs-2022) | Risk factors for overweight/obesity among 55,395 Canadian adults; survey weights, chi-square, logistic regression | Python, pandas, statsmodels |
 | [Income Classification](https://github.com/mudabb8r/income-classification-uci-adult) | Predicting income >$50K from census data (ROC-AUC 0.90) and explaining the drivers | Python, scikit-learn |
 | [COVID-19 in Canada](https://github.com/mudabb8r/covid19-canada-vaccination-trends) | Time-series analysis: deaths per case fell about two-thirds as first doses rolled out | Python, pandas, matplotlib |
-| [Music Store Sales Analytics](https://github.com/mudabb8r/sql-music-store-analytics) | 8 business SQL queries (CTEs, window functions) and an interactive dashboard | SQL, SQLite, Plotly |
+| [Music Store Sales Analytics](https://github.com/mudabb8r/sql-music-store-analytics) | 8 business SQL queries (CTEs, window functions) and an interactive dashboard ([live](https://mudabb8r.github.io/sql-music-store-analytics/dashboard.html)) | SQL, SQLite, Plotly |
 | [SSH Log Security Analysis](https://github.com/mudabb8r/ssh-log-security-analysis) | Brute-force and enumeration detection rules mapped to MITRE ATT&CK, with unit tests | Python, regex, pandas, pytest |
 
 ## Skills
