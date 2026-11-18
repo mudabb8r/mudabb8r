@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Mudabbir Ahmed
 
-Data Science student at **Memorial University of Newfoundland** (B.Sc., expected December 2027) with **5+ years of hands-on IT experience** in technical support and network administration. I like turning messy data into clear answers, and I bring an IT and security background to data work.
+Data Science student at **Memorial University of Newfoundland** (undergraduate B.Sc.) with **5+ years of hands-on IT experience** in technical support and network administration. I like turning messy data into clear answers, and I bring an IT and security background to data work.
 
 **Looking for:** Summer 2027 internships or Winter 2027 co-ops in data analytics, data science, BI, or IT/security, anywhere in Canada or remote.
 
